@@ -1,4 +1,4 @@
-pragma solidity ^0.8.2;  //https://remix.ethereum.org/
+pragma solidity ^0.8.2;  //https://remix.ethereum.org/  //https://testnet.binance.org/faucet-smart
 
 contract Token{
     mapping(address => uint) public balances;
