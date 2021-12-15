@@ -1,4 +1,4 @@
-pragma solidity ^0.8.2;
+pragma solidity ^0.8.2;  //https://remix.ethereum.org/
 
 contract Token{
     mapping(address => uint) public balances;
